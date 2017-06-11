@@ -13,6 +13,15 @@ public class BinarySearchTreeDriver {
 		boom.addNode(5);
 		boom.addNode(7);
 		boom.addNode(9);
+		boom.addNode(10);
+		boom.addNode(11);
+
+		boom.removeNode(9);
+		boom.printInOrder();
+		System.out.println();
+
+		boom.ruimOp();
+
 		boom.printInOrder();
 		System.out.println();
 		System.out.println("De grootste waarde uit deze boom = " + boom.searchGreatest());
