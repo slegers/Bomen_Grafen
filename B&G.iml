@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Bin_search_tree/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/heap/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BFS/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Floyd/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
