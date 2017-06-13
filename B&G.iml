@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/BFS/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Floyd/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Dijckstra/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examen/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
