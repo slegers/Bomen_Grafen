@@ -2,7 +2,7 @@ package ui;
 
 import java.util.List;
 
-import domain.Graph;
+import domain.GraphOplossing;
 
 public class BreadthFirstSearchUI {
 
@@ -15,7 +15,7 @@ public class BreadthFirstSearchUI {
 							{ 0, 1, 0, 0, 0, 0, 1 }, 
 							{ 0, 0, 0, 0, 0, 0, 1 }, 
 							{ 0, 0, 0, 0, 0, 0, 0 } }; // nabijheidsmatrix van graf  uit  figuur  1.5  van  cursus
-		Graph bfs = new Graph(data);
+		GraphOplossing bfs = new GraphOplossing(data);
 
 		int start = 1;
 		int destination = 7;
